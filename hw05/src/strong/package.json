@@ -1,0 +1,14 @@
+{
+  "name": "becca635b1ce558f",
+  "main": "becca635b1ce558f@16.js",
+  "version": "16.0.0",
+  "homepage": "https://observablehq.com/d/becca635b1ce558f",
+  "author": {
+    "name": "JeremyChouJI's Workspace",
+    "url": "https://observablehq.com/@jeremychouji-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
