@@ -1,0 +1,14 @@
+{
+  "name": "2f7605b0795b2b21",
+  "main": "2f7605b0795b2b21@71.js",
+  "version": "71.0.0",
+  "homepage": "https://observablehq.com/d/2f7605b0795b2b21",
+  "author": {
+    "name": "JeremyChouJI's Workspace",
+    "url": "https://observablehq.com/@jeremychouji-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
